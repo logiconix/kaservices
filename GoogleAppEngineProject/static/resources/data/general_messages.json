@@ -1,0 +1,40 @@
+{
+    "messages": [
+        {
+            "message": "Do we need to buy textbooks for this class?",
+            "username": "Pranav Ram",
+            "local": true,
+            "questionId": -1,
+            "messageType": "general",
+            "id": 0
+        },
+         {
+            "message": "I heard we don't but I might be wrong. Any one else?",
+            "username": "Ian Wilson",
+            "questionId": -1,
+            "messageType": "general",
+            "id": 1
+        },
+         {
+            "message": "Friend of mine took the class and said we don't need it.",
+            "username": "Michael Landes",
+            "questionId": -1,
+            "messageType": "general",
+            "id": 2
+        },
+        {
+            "message": "Thanks Michael!",
+            "username": "Yaohong Xi",
+            "messageType": "general",
+            "questionId": -1,
+            "id": 3
+        },
+        {
+            "message": "How do we solve for x=-y?",
+            "username": "Ian Wilson",
+            "questionId": -1,
+            "messageType": "general",
+            "id": 4
+        },
+    ]
+}

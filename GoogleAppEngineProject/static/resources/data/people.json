@@ -1,0 +1,40 @@
+{
+    "people": [
+        {
+            "username": "Pranav Ram",
+            "firstName": "Pranav",
+            "lastName": "Ram",
+            "coursesEnrolled": [
+                "CS 8803 - MAS"
+            ],
+            "id": 0
+        },
+         {         
+            "username": "Ian Wilson",
+            "firstName": "Ian",
+            "lastName": "Wilson",
+            "coursesEnrolled": [
+                "CS 8803 - MAS"
+            ],
+            "id": 1
+        },
+         {
+            "username": "Michael Landes",
+            "firstName": "Michael",
+            "lastName": "Landes",
+            "coursesEnrolled": [
+                "CS 8803 - MAS"
+            ],
+            "id": 2
+        },
+         {
+            "username": "Yaohong Xi",
+            "firstName": "Yaohong",
+            "lastName": "Xi",
+            "coursesEnrolled": [
+                "CS 8803 - MAS"
+            ],
+            "id": 3
+        }
+    ]
+}

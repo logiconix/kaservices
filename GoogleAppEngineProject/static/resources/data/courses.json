@@ -1,0 +1,20 @@
+{
+    "courses": [
+        {
+            "courseName": "CS 8803 - MAS",
+            "id": 8803
+        },
+         {
+            "courseName": "CS 7450 - IV",
+            "id": 7450
+        },
+         {
+            "courseName": "CS 6456 - PUI",
+            "id": 6456
+        },
+         {
+            "courseName": "CS 6491 - Graphics",
+            "id": 6491
+        }
+    ]
+}
